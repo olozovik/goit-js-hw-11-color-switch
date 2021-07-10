@@ -1,0 +1,2 @@
+body{padding:20px}button{padding:10px 20px;font-family:sans-serif;font-size:30px;color:#fff;background-color:#ff4500;border-radius:5px;border-color:transparent;cursor:pointer;transition:background-color .2s linear,color .2s linear}button:not(:last-child){margin-right:10px}button:disabled,button:hover{background-color:#ff9169;border-color:transparent;outline:none}
+/*# sourceMappingURL=/goit-js-hw-11-color-switch/src.77234ab5.css.map */
