@@ -4,7 +4,7 @@ const colors = ['#FFFFFF', '#2196F3', '#4CAF50', '#FF9800', '#009688', '#795548'
 
 const refs = {
   start: document.querySelector('[data-action="start"]'),
-  stop: document.querySelector('[data-action="stop"'),
+  stop: document.querySelector('[data-action="stop"]'),
 };
 
 refs.start.addEventListener('click', runChangingColors);

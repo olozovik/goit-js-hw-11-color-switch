@@ -10,7 +10,7 @@ button {
   color: white;
 
   background-color: orangered;
-  border-radius: 8px;
+  border-radius: 5px;
   border-color: transparent;
   cursor: pointer;
 
@@ -22,10 +22,8 @@ button {
 
   &:hover,
   &:disabled {
-    background-color: rgb(255, 127, 80);
-    color: rgb(211, 211, 211);
+    background-color: rgb(255, 145, 105);
     border-color: transparent;
     outline: none;
-    box-shadow: 0 0 10px 1px rgb(255, 51, 0) inset;
   }
 }
